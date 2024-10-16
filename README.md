@@ -16,6 +16,6 @@ Me apasiona el mundo de la informatica y espero poder aplicar mis conocimientos 
 ![DBMongo](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)</br>
 ![Springboot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)</br>
 
-## Contacto y apoyo:
+## Contacto :
 [![Email](https://img.shields.io/badge/Email-jor.fernandezj%40duocuc.cl-101010?style=for-the-badge&logo=mail&logoColor=white)](mailto:jor.fernandezj@duocuc.cl)</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-fernandez-5b8042246/)</br>
