@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Soy Jorge Fernandes Ingeniero Informatico 
+#  Soy Jorge Fernandes Ingeniero Informatico 
 ### Titulado DuocUC
 
 ![https://github.com/jorge1101](./https://avatars.githubusercontent.com/u/150048568?v=4)
