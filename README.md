@@ -10,7 +10,7 @@ Me apasiona el mundo de la informatica y espero poder aplicar mis conocimientos 
 
 ## Skills:
 ![Angular](https://img.shields.io/badge/Angular-800020?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)</br>
-![Java](https://img.shields.io/badge/Java-F57C00?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)</br>
+![Java](https://img.shields.io/badge/Java-F57C00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)</br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
 ![PhP](https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)</br>
 ![Oracle](https://img.shields.io/badge/Oracle-E94E1B?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)</br>
