@@ -2,7 +2,7 @@
 ### Titulado DuocUC
 Soy un Ingeniero Informatico Titulado en 2023.
 
-![https://github.com/jorge1101](./Image.jpg)
+![https://github.com/jorge1101](./Image.png)
 
 He trabajado en Finterra donde me dedique a hacer labores de Actualizacion de codigo obsoleto ademas de trabajar como front end y backend utilizando angular y Mongo DB para llevar a cabo las tareas entre otras cosas.
  
